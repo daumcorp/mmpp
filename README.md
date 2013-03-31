@@ -11,6 +11,7 @@ MMPP는 PC 시절 ICQ, Yahoo!, AOL 그리고 구글과 마이크로소프트가 
 
 ## 스펙
 * RFC-MMPP 문서: https://github.com/daumcorp/mmpp/blob/master/RFC-mmpp.md
+
 ## 데모 동영상 
 * http://www.youtube.com/watch?v=wf0MldfhqPA
 
