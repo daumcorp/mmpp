@@ -9,6 +9,8 @@ MMPP는 PC 시절 ICQ, Yahoo!, AOL 그리고 구글과 마이크로소프트가 
 * 모바일 단말 자체가 서버가 되어 독자적으로 메시지를 주고 받기 때문에, XMPP와 달리 별도의 분산 서버를 운영하지 않아도 되어 사업자의 비용을 절감할 수 있을 뿐 아니라 서버에 메시지가 아예 저장되지 않아 경찰의 압수 수색을 당하지 않아 개인 메시지 보호에 탁월합니다.
 * 기술적으로 XMPP와 달리 JSON을 기반으로 하며 콜백을 통한 API를 통해, 더 쉽게 클라이언트 개발이 가능할 뿐만 아니라 <message>, <presense>, <iq> 등 기존 XMPP와 호환 가능하므로 프론트엔드 개발자도 쉽게 적용할 수 있으며, node.js 라이브러리 지원으로 다양한 모바일 메신저가 개발 및 보급 될 수 있는 생태계를 조성할 수 있습니다.
 
+## 스펙
+* RFC-MMPP 문서: https://github.com/daumcorp/mmpp/blob/master/RFC-mmpp.md
 ## 데모 동영상 
 * http://www.youtube.com/watch?v=wf0MldfhqPA
 
