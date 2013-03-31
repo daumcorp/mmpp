@@ -35,8 +35,39 @@ presence는 채팅 중에 혹은 사용자 정보를 볼때, 메신저 상태를
 ```
 
 ## 4. File Transfer
-TBD
+file은 채팅 중에 상호간 사진 및 파일을 전송하는 것으로, XMPP의 하위 표준을 활용한다.
+
+```json
+  { file:
+    {
+      from:'channy@mypeople', 
+      to:'jessie@kakao', 
+      name:'test.jpg',
+      size:'512kb',
+    }
+  }
+```
+* SI (Stream Initiated) File Transfer (XEP-0096) http://xmpp.org/extensions/xep-0096.html 
+* Jingle File Transfer(XEP-0234) http://xmpp.org/extensions/xep-0234.html
 
 ## 5. Sending Sticker 
-TBD
+스티커는 메신저에서 매우 중요한 역할을 하므로 상호 캐싱을 통해 주요 메신저 스티커는 공유한다. 단, 저작권이 있는 경우 배제.
+```json
+  { sticker:
+    {
+      from:'channy@mypeople', 
+      to:'jessie@kakao', 
+      media:
+        {
+          image: 'gomdori-1.jpg',
+          swf: 'gomdori-1.swf'
+        }
+      source:'http://mypeople.daum.net/sticker/source/',
+      iscache: 'true',
+    }
+  }
+```
+
+## 6. TBD
+기타 주요 기능 구현 사항은 향후 추가됩니다.
 
