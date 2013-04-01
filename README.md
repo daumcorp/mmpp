@@ -24,7 +24,7 @@ MMPP는 XMPP의 주요 스펙인 message, presence 및 iq와 호환 가능합니
       from:'channy@mypeople', 
       to:'jessie@kakao', 
       type:'chat', 
-      body:'안녕하세요?' 
+      body:'안녕하세요?',
     } 
   }
 ```
@@ -35,7 +35,7 @@ presence는 채팅 중에 혹은 사용자 정보를 볼때, 메신저 상태를
     value:'presence type=typing',
     show:'typing',
     status:'제주살이'
-    username: '차니'
+    username: '차니',
   }
 ```
 
