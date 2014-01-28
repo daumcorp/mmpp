@@ -39,4 +39,13 @@ presence는 채팅 중에 혹은 사용자 정보를 볼때, 메신저 상태를
   }
 ```
 
-더 자세한 사항은 http://dna.daum.net/mmpp 를 참고하시기 바랍니다.
+더 자세한 사항은 http://daumdna.tistory.com/775를 참고하시기 바랍니다.
+
+## Notice
+*  본 페이지는 Daum DNA에서 만우절 이벤트로 마련한 것입니다. 많은 분들이 낚여(?) 주시고 즐겨 주셔서 감사합니다.
+ * [낚여도 재밌는 IT업계 '만우절' 이벤트](http://www.newstomato.com/ReadNews.aspx?no=349650) 뉴스토마토
+ * [모바일 메신저 삼국통일? 만우절 장난 눈길](http://www.zdnet.co.kr/ArticleView.asp?artice_id=20130401135122) ZDnet 코리아
+ * [다음, 모바일 메신저간 MMPP 개발?](http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/mobile/55/read?articleId=1047985&bbsId=G003&itemId=9&pageIndex=1) PHP스쿨
+ * [다음, 모바일 메신저간 표준 규약(MMPP) 개발](http://bbs2.ruliweb.daum.net/gaia/do/ruliweb/default/mobile/55/read?articleId=1047985&bbsId=G003&itemId=9&pageIndex=1) 루리웹
+ * [모바일 메신저간 표준 규약 개발](http://clien.net/cs2/bbs/board.php?bo_table=park&wr_id=20073753) 클리앙
+ * [진지모드로 묻힌 다음의 만우절 개그](http://www.clien.net/cs2/bbs/board.php?bo_table=park&wr_id=20084271) 클리앙
