@@ -1,6 +1,6 @@
-# MPP(Mobile Messaging and Presence Protocol)=
+# [DEPRECATED] MPP
 
-MMPP는 PC 시절 ICQ, Yahoo!, AOL 그리고 구글과 마이크로소프트가 적극 지원했던 XMPP의 장점을 이어 받아 모바일 메신저간 상호 소통을 위해 만들어 졌습니다. MMPP 프로토콜의 주요 장점은 다음과 같습니다.
+MMPP(Mobile Messaging and Presence Protocol)는 PC 시절 ICQ, Yahoo!, AOL 그리고 구글과 마이크로소프트가 적극 지원했던 XMPP의 장점을 이어 받아 모바일 메신저간 상호 소통을 위해 만들어 졌습니다. MMPP 프로토콜의 주요 장점은 다음과 같습니다.
 
 ![Screenshot](http://cfile23.uf.tistory.com/image/24201B4D5158A8953238F9)
  
